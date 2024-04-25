@@ -1,0 +1,5 @@
+# Temporary files created by Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+cpu/
